@@ -1,2 +1,1 @@
-# Portfolio
-AnjaliDharmik Portfolio
+# anjalidharmik.github.io portfolio
